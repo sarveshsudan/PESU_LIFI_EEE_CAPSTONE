@@ -1,0 +1,15 @@
+{
+    "@context": "dtmi:dtdl:context;2",
+    "@id": "dtmi:example:Plug;1",
+    "@type": "Interface",
+    "displayName": "Plug",
+    "contents": [
+      {
+        "@type": "Property",
+        "name": "State",
+        "schema": "string"
+      }
+    ]
+  }
+  
+
